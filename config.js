@@ -1,19 +1,18 @@
 const siteConfig = {
   personal: {
-    name: 'Baimam Boukar',
+    name: 'Esther Nzau,',
     title: 'MSc @ Carnegie Mellon University',
     institution: 'CMU Africa',
     department: 'College of Engineering',
-    email: 'baimamboukar@gmail.com',
+    email: 'knzau@andrew.cmu.edu',
     location: 'Kigali, Rwanda',
     avatar:
       'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
     bio: '🥷 I am Designed For Failure',
     social: {
-      email: 'mailto:baimamboukar@gmail.com',
-      github: 'https://github.com/baimamboukar',
-      linkedin: 'https://linkedin.com/in/baimamboukar',
-      twitter: 'https://twitter.com/baimamboukar',
+      email: 'esthernzau21@gmail.com',
+      github: 'https://github.com/esthernzau',
+      linkedin: 'https://linkedin.com/in/esthernzau',
     },
   },
   navigation: [
@@ -92,7 +91,7 @@ const siteConfig = {
       description:
         'VS Code extension providing intelligent code completion and snippets for Flutter Riverpod state management',
       year: '2024',
-      link: 'https://github.com/baimamboukar/riverpod-intellisense',
+      link: 'https://github.com/esthernzau/riverpod-intellisense',
       tags: ['TypeScript', 'VS Code', 'Flutter', 'Developer Tools'],
     },
     {
@@ -100,7 +99,7 @@ const siteConfig = {
       description:
         'Digital wallet and payment solution app built with Flutter, featuring secure transactions and QR code payments',
       year: '2023',
-      link: 'https://github.com/baimamboukar/swiftpay',
+      link: 'https://github.com/esthernzau/swiftpay',
       tags: ['Flutter', 'Firebase', 'Payment Gateway', 'Mobile'],
     },
     {
@@ -108,7 +107,7 @@ const siteConfig = {
       description:
         'Personal portfolio website built with Next.js and Tailwind CSS, showcasing projects and skills',
       year: '2023',
-      link: 'https://baimamboukar.dev',
+      link: 'https://esthernzau.dev',
       tags: ['Next.js', 'React', 'Tailwind CSS', 'Vercel'],
     },
     {
@@ -116,7 +115,7 @@ const siteConfig = {
       description:
         'For Space exploration enthusiasts, Cosmosense provides real-time tracking of satellites and space missions with detailed info and alerts',
       year: '2022',
-      link: 'https://github.com/baimamboukar/cosmosense',
+      link: 'https://github.com/esthernzau/cosmosense',
       tags: ['Flutter', 'Node.js', 'MongoDB', 'REST API'],
     },
     {
@@ -124,7 +123,7 @@ const siteConfig = {
       description:
         'Which asteroids are close to Earth today? Asteroidly provides real-time data on near-Earth objects using NASA APIs, with visualizations and alerts',
       year: '2022',
-      link: 'https://github.com/baimamboukar/weather-app',
+      link: 'https://github.com/esthernzau/weather-app',
       tags: ['Flutter', 'Weather API', 'Geolocation'],
     },
   ],
