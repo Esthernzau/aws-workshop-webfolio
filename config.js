@@ -12,7 +12,6 @@ const siteConfig = {
     social: {
       email: 'esthernzau21@gmail.com',
       github: 'https://github.com/esthernzau',
-      linkedin: 'https://linkedin.com/in/esthernzau',
     },
   },
   navigation: [
